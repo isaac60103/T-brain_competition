@@ -8,8 +8,8 @@
 * [stock market info](http://www.twse.com.tw/zh/page/trading/exchange/FMTQIK.html)  
 * [fund basic info](https://announce.fundclear.com.tw/MOPSonshoreFundWeb/I01.jsp)
 * [fund info](http://www.twse.com.tw/zh/ETF/fund/0051#4)  
-* [macro economy](https://www.macromicro.me/macro/tw#_=_)
-
+* [macro economy](https://www.macromicro.me/macro/tw#_=_)  
+* [institutional investors](http://www.cmoney.tw/follow/channel/stock-0050?chart=r)
 
 
 
